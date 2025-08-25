@@ -1,0 +1,25 @@
+# ==============================
+# BetterTeams - Configuración
+# ==============================
+
+# Prefijo que aparecerá en los mensajes del plugin
+plugin-prefix: "&6[BetterTeams]&r "
+
+# Mensaje que aparece cuando un jugador crea un equipo
+team-created: "&aHas creado el equipo &e%team%"
+
+# Límite de miembros en un equipo
+max-team-size: 10
+
+# ¿Permitir PvP entre miembros de un mismo equipo?
+friendly-fire: false
+
+# ¿Prefijo en el chat con el nombre del equipo?
+chat-prefix: true
+chat-format: "&7[&b%team%&7] &f%player%: %message%"
+
+# ¿Activar log de todas las acciones en consola?
+debug: false
+
+# Nombre del archivo donde se guardan los equipos
+teams-file: "teams.yml"

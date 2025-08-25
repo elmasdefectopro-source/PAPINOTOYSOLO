@@ -1,0 +1,2 @@
+# Mensaje que se mostrará cuando alguien intente usar /pl, /plugins, /version, /ver o un comando inexistente
+blocked-message: "&cEse comando no existe o no tienes permiso."

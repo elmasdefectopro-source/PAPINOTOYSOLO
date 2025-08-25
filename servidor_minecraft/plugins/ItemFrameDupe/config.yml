@@ -1,0 +1,6 @@
+# Probabilidad de duplicación (0.0 - 1.0)
+duplicate-chance: 0.1
+
+# Lista de mundos donde se permite duplicar (opcional)
+allowed-worlds:
+  - world
