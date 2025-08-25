@@ -168,3 +168,81 @@ java.lang.NullPointerException: Cannot read the array length because "arr$" is n
 [00:44:35] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /team join Kratos
 [00:44:44] [Async Chat Thread - #1/INFO]: [Not Secure] [M][Kratos] GASTON_1870PY: a
 [00:44:50] [Region Scheduler Thread #0/INFO]: IlluzziX has made the advancement [Getting an Upgrade]
+[00:44:58] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [Getting an Upgrade]
+[00:45:28] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[00:46:31] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax IlluzziX}
+[00:46:38] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax IlluzziX
+[00:46:46] [Region Scheduler Thread #0/INFO]: IlluzziX issued server command: /tpaxaccept
+[00:46:49] [User Authenticator #1/INFO]: UUID of player miguelgamer1721 is 63a5363c-2761-3952-b2d7-b27502eddcfc
+[00:46:49] [Region Scheduler Thread #0/INFO]: com.mojang.authlib.GameProfile@3ddb9aca[id=63a5363c-2761-3952-b2d7-b27502eddcfc,name=miguelgamer1721,properties={}] lost connection: Disconnected
+[00:46:55] [User Authenticator #1/INFO]: UUID of player miguelgamer1721 is 63a5363c-2761-3952-b2d7-b27502eddcfc
+[00:46:56] [Region Scheduler Thread #0/INFO]: miguelgamer1721 joined the game
+[00:46:56] [Region Scheduler Thread #0/INFO]: miguelgamer1721[/127.201.15.194:55525] logged in with entity id 5044 at ([world]-2.5, 73.0, -12.5)
+[00:47:14] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /register miguelgamer
+[00:47:18] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: holaasa
+[00:47:22] [Async Chat Thread - #2/INFO]: [Not Secure] [M][Kratos] GASTON_1870PY: hola
+[00:47:27] [Async Chat Thread - #2/INFO]: [Not Secure] [L][Kratos] IlluzziX: hoola
+[00:47:34] [User Authenticator #1/INFO]: UUID of player zrazer_yt is 9804b45a-f505-3d58-a7d8-0892636fcb24
+[00:47:36] [Async Chat Thread - #2/INFO]: [Not Secure] [M][Kratos] GASTON_1870PY: miguel metete a la llamada
+[00:47:37] [Region Scheduler Thread #0/INFO]: zrazer_yt joined the game
+[00:47:37] [Region Scheduler Thread #0/INFO]: zrazer_yt[/127.173.32.94:50045] logged in with entity id 5263 at ([world]-2.5, 72.0, 4.5)
+[00:47:49] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: voy
+[00:47:50] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /register qaxcvbnmlp
+[00:47:55] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: es anarquico sierto?
+[00:47:57] [Async Chat Thread - #2/INFO]: [Not Secure] [L][Kratos] IlluzziX: si
+[00:48:05] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /register qaxcvbnmlp
+[00:48:08] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: melo
+[00:48:08] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [Acquire Hardware]
+[00:48:15] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: toca dominar
+[00:48:33] [Async Chat Thread - #3/INFO]: [Not Secure] [SinEquipo] zrazer_yt: alguien pa team?
+[00:48:39] [Async Chat Thread - #3/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: yo
+[00:48:55] [Async Chat Thread - #3/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: si?
+[00:49:09] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /team create mz
+[00:49:22] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /team invite miguelgamer1721
+[00:49:32] [Async Chat Thread - #3/INFO]: [Not Secure] [L][mz] zrazer_yt: hola
+[00:49:47] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [Isn't It Iron Pick]
+[00:49:56] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /msg miguelgamer1721 15 88
+[00:50:04] [Async Chat Thread - #2/INFO]: [Not Secure] [L][mz] zrazer_yt: en hay estoy
+[00:50:08] [Async Chat Thread - #2/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: ok
+[00:50:28] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[00:50:51] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Stone Age]
+[00:51:15] [Region Scheduler Thread #0/INFO]: miguelgamer1721 has made the advancement [Monster Hunter]
+[00:51:24] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at -14, -21 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[00:51:26] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Monster Hunter]
+[00:52:25] [User Authenticator #2/INFO]: UUID of player zWhity is 1f9e6913-15a9-3720-8575-1c868fb6e04c
+[00:52:27] [Region Scheduler Thread #0/INFO]: zWhity joined the game
+[00:52:27] [Region Scheduler Thread #0/INFO]: zWhity[/127.29.41.40:50549] logged in with entity id 6898 at ([world]0.5, 71.0, -11.5)
+[00:52:30] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [Diamonds!]
+[00:52:41] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /register zWhity
+[00:52:44] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /join mz
+[00:52:58] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /msg miguelgamer1721 podes llamada?
+[00:53:04] [Async Chat Thread - #5/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: siç
+[00:53:12] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /msg miguelgamer1721 user?}
+[00:53:17] [Region Scheduler Thread #0/INFO]: miguelgamer1721 has made the advancement [Stone Age]
+[00:53:20] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: pera
+[00:53:27] [Region Scheduler Thread #0/INFO]: miguelgamer1721 has made the advancement [Getting an Upgrade]
+[00:53:30] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Getting an Upgrade]
+[00:53:31] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] zWhity: se permite xray si es anarquico tons??
+[00:53:32] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] zWhity: xdd
+[00:53:36] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Stone Age]
+[00:53:36] [Async Chat Thread - #4/INFO]: [Not Secure] [L][Kratos] IlluzziX: si xd
+[00:53:58] [Region Scheduler Thread #0/INFO]: zrazer_yt murió de forma misteriosa.
+[00:54:04] [Async Chat Thread - #4/INFO]: [Not Secure] [L][Kratos] IlluzziX: ./volver
+[00:54:07] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: uy no
+[00:54:10] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /volver
+[00:54:12] [Async Chat Thread - #4/INFO]: [Not Secure] [L][Kratos] IlluzziX: podes usar /volver
+[00:54:14] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /join mz
+[00:54:19] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: esperame
+[00:54:25] [Async Chat Thread - #4/INFO]: [Not Secure] [SinEquipo] miguelgamer1721: ya vuelvo
+[00:54:42] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Getting an Upgrade]
+[00:54:52] [Region Scheduler Thread #0/INFO]: IlluzziX has made the advancement [Acquire Hardware]
