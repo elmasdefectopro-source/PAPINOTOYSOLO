@@ -26,11 +26,6 @@ teams:
     color: GOLD
     members:
       '0':
-        uuid: 1f9e6913-15a9-3720-8575-1c868fb6e04c
-        role: MEMBER
-        kills: 0
-        deaths: 0
-      '1':
         uuid: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
         role: MEMBER
         kills: 0
