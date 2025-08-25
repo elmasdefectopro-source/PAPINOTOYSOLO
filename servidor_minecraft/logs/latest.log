@@ -1287,3 +1287,5 @@ java.lang.NullPointerException: Cannot read the array length because "arr$" is n
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [03:10:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [03:15:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[03:20:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[03:25:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
