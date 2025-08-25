@@ -4,22 +4,31 @@ teams:
     leader: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
     members:
       '0':
-        uuid: 26be8331-a246-3fe8-8796-22239ccb4539
-        role: MEMBER
-        kills: 0
-        deaths: 0
-      '1':
         uuid: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
         role: LEADER
         kills: 0
         deaths: 0
-  SachaFans:
+  LEGENDS:
     color: RED
-    leader: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+    leader: 26be8331-a246-3fe8-8796-22239ccb4539
     members:
       '0':
-        uuid: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+        uuid: 26be8331-a246-3fe8-8796-22239ccb4539
         role: LEADER
+        kills: 0
+        deaths: 0
+  MOSTACEROS:
+    color: GOLD
+    leader: 1f9e6913-15a9-3720-8575-1c868fb6e04c
+    members:
+      '0':
+        uuid: 1f9e6913-15a9-3720-8575-1c868fb6e04c
+        role: LEADER
+        kills: 0
+        deaths: 0
+      '1':
+        uuid: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+        role: MEMBER
         kills: 0
         deaths: 0
   mz:
@@ -29,5 +38,10 @@ teams:
       '0':
         uuid: 9804b45a-f505-3d58-a7d8-0892636fcb24
         role: LEADER
+        kills: 0
+        deaths: 0
+      '1':
+        uuid: 63a5363c-2761-3952-b2d7-b27502eddcfc
+        role: MEMBER
         kills: 0
         deaths: 0
