@@ -1274,3 +1274,16 @@ java.lang.IllegalStateException: World mismatch: expected world but got world_ne
 [03:05:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [03:06:39] [Region Scheduler Thread #0/INFO]: GASTON_1870PY lost connection: Disconnected
 [03:06:39] [Region Scheduler Thread #0/INFO]: GASTON_1870PY left the game
+[03:07:37] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 64, -8 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:10:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[03:15:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
