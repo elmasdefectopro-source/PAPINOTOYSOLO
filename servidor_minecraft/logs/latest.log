@@ -1141,3 +1141,49 @@ java.lang.NullPointerException: Cannot read the array length because "arr$" is n
 [02:45:51] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Hidden in the Depths]
 [02:46:21] [Region Scheduler Thread #0/INFO]: MrOscu_ has made the advancement [We Need to Go Deeper]
 [02:46:32] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 mmm
+[02:48:10] [Region Scheduler Thread #0/INFO]: parnal0011 ardió como antorcha humana.
+[02:48:14] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:48:42] [Async Chat Thread - #63/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XD
+[02:49:01] [Region Scheduler Thread #0/INFO]: parnal0011 lost connection: Disconnected
+[02:49:01] [Region Scheduler Thread #0/INFO]: parnal0011 left the game
+[02:49:19] [User Authenticator #11/INFO]: UUID of player parnal0011 is 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+[02:49:20] [Region Scheduler Thread #0/INFO]: parnal0011 joined the game
+[02:49:20] [Region Scheduler Thread #0/INFO]: parnal0011[/127.162.75.32:60295] logged in with entity id 75490 at ([world_nether]261.30000001192093, 67.0, -213.3811232195852)
+[02:49:24] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por zWhity
+[02:49:29] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:49:31] [Region Scheduler Thread #0/INFO]: parnal0011 intentó abrazar la lava.
+[02:49:44] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /login cocaola
+[02:49:46] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 2 putas manzanas
+[02:49:48] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /login cocacolaxd
+[02:49:56] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[02:50:00] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:50:02] [Region Scheduler Thread #0/INFO]: parnal0011 intentó abrazar la lava.
+[02:50:07] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:50:17] [Region Scheduler Thread #0/INFO]: parnal0011 ardió como antorcha humana.
+[02:50:21] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:50:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:50:39] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax GASTON_1870PY
+[02:50:46] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:51:05] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] XD
+[02:51:07] [Async Chat Thread - #67/INFO]: [Not Secure] [SinEquipo] zWhity: xd
+[02:51:14] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity somos equipo o nel?
+[02:51:34] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 vete con los otros yo puedo 3v1
+[02:51:47] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity era una broma w
+[02:51:56] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity estoy en su base
+[02:52:43] [Region Scheduler Thread #0/INFO]: zWhity lost connection: Disconnected
+[02:52:43] [Region Scheduler Thread #0/INFO]: zWhity left the game
+[02:53:54] [Region Scheduler Thread #0/WARN]: MrOscu_ moved wrongly!
+[02:54:56] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 17, -14 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:55:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:55:54] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por GASTON_1870PY
+[02:56:00] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
