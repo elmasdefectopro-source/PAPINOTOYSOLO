@@ -13,6 +13,15 @@ teams:
         role: LEADER
         kills: 0
         deaths: 0
+  SachaFans:
+    color: RED
+    leader: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+    members:
+      '0':
+        uuid: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
+        role: LEADER
+        kills: 0
+        deaths: 0
   mz:
     color: WHITE
     leader: 9804b45a-f505-3d58-a7d8-0892636fcb24
