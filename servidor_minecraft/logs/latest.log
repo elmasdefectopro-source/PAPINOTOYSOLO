@@ -751,3 +751,244 @@ java.lang.NullPointerException: Cannot read the array length because "arr$" is n
 [01:55:15] [Async Chat Thread - #40/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: si
 [01:55:18] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: xd
 [01:55:29] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:55:42] [Async Chat Thread - #40/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: no tengo admin primero de todo xddd
+[01:55:46] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: estos slimes me recxuerdan a ese video nopor del steve y el femboy creeper
+[01:55:51] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: XDD
+[01:55:54] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 4, 11 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:56:12] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 agarramos ya full netherite con xray???
+[01:56:42] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxdeny zWhity
+[01:56:49] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat ah pero esa wbd de la forja xd
+[01:56:53] [Async Chat Thread - #39/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: pero saben que
+[01:56:56] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[01:57:03] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpaxaccept
+[01:57:19] [Async Chat Thread - #39/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: ay un bug pa duplicar las cosas
+[01:58:07] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: pasa la mesa de encantaminetos w
+[01:58:13] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: hierro
+[01:58:52] [Region Scheduler Thread #0/INFO]: parnal0011 has made the advancement [Enchanter]
+[01:59:08] [Async Chat Thread - #40/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: quiero un pvp 1v1
+[01:59:13] [Async Chat Thread - #40/INFO]: [Not Secure] [M][mz] miguelgamer1721: YO
+[01:59:19] [Async Chat Thread - #40/INFO]: [Not Secure] [M][mz] miguelgamer1721: ese mayus
+[01:59:22] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: xd
+[01:59:25] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XD
+[01:59:27] [Async Chat Thread - #40/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: no contra zWhity
+[01:59:28] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: xd
+[01:59:46] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax zWhity
+[01:59:51] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Enchanter]
+[02:00:03] [Region Scheduler Thread #0/INFO]: parnal0011 has made the advancement [We Need to Go Deeper]
+[02:00:12] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax parnal0011
+[02:00:16] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat venn el gaston se va a tpear a mi
+[02:00:26] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxaccept
+[02:00:26] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [We Need to Go Deeper]
+[02:00:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:00:32] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por GASTON_1870PY
+[02:00:36] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: ese w
+[02:00:39] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:00:41] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [We Need to Go Deeper]
+[02:00:56] [Async Chat Thread - #41/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: xd
+[02:00:58] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por zWhity
+[02:01:08] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver MrOscu_
+[02:01:10] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: chvere
+[02:01:10] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por parnal0011
+[02:01:19] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[02:01:23] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[02:01:29] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XDD
+[02:01:48] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: realmente con su creativo no puede
+[02:01:58] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XD
+[02:02:12] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: eres mi heroe w
+[02:02:14] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Ice Bucket Challenge]
+[02:02:18] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: callate mrd
+[02:02:27] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: dame un besito nm
+[02:02:29] [Async Chat Thread - #41/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XDD
+[02:02:53] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[02:03:20] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por parnal0011
+[02:03:22] [Region Scheduler Thread #0/INFO]: parnal0011 intentó abrazar la lava.
+[02:03:25] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[02:03:26] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:03:29] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por zWhity
+[02:03:47] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax zrazer_yt
+[02:03:55] [Async Chat Thread - #43/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XD
+[02:03:55] [Async Chat Thread - #43/INFO]: [Not Secure] [L][mz] zrazer_yt: para que?
+[02:04:01] [Async Chat Thread - #43/INFO]: [Not Secure] [L][mz] zrazer_yt: GASTON_1870PY
+[02:04:03] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat me salvaste esta vez a mi xd
+[02:04:08] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat casi me muero
+[02:04:12] [Async Chat Thread - #43/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: ay
+[02:04:17] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at -5, -95 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world_nether but got world
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:04:21] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Enchanter]
+[02:04:24] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /msg zrazer_yt bro alianza pa matar a zwhi va?
+[02:04:30] [Async Chat Thread - #44/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: w
+[02:04:30] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[02:04:35] [Async Chat Thread - #44/INFO]: [Not Secure] [L][mz] zrazer_yt: sus
+[02:04:43] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat podemos ir a bastion a conseguir solo esa forja y ya minar netherite con xray xd
+[02:04:47] [Async Chat Thread - #44/INFO]: [Not Secure] [L][mz] zrazer_yt: deja pensar
+[02:05:01] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity mira w matame ire donde el gaston dire q me tracionaste y haces tu entrada epica
+[02:05:13] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /team leave
+[02:05:25] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por zWhity
+[02:05:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:05:36] [Async Chat Thread - #43/INFO]: [Not Secure] [SinEquipo] parnal0011: NAH TRAICIONERO DE MRD
+[02:05:41] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:05:42] [Region Scheduler Thread #0/INFO]: MrOscu_ has made the advancement [Acquire Hardware]
+[02:05:45] [Region Scheduler Thread #0/INFO]: miguelgamer1721 lost connection: Disconnected
+[02:05:45] [Region Scheduler Thread #0/INFO]: miguelgamer1721 left the game
+[02:05:53] [Region Scheduler Thread #0/INFO]: MrOscu_ has made the advancement [Hot Stuff]
+[02:05:56] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[02:05:59] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY w
+[02:06:05] [Async Chat Thread - #44/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: q
+[02:06:18] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por zWhity
+[02:06:29] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 no tenia ni pincho xd
+[02:06:32] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tell parnal0011 es trampa?
+[02:06:37] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY mira el whity me traiciono puedo estar en tu clan?
+[02:07:10] [Async Chat Thread - #43/INFO]: [Not Secure] [SinEquipo] parnal0011: habre w
+[02:07:16] [Async Chat Thread - #43/INFO]: [Not Secure] [SinEquipo] parnal0011: nah
+[02:07:23] [Region Scheduler Thread #0/INFO]: GASTON_1870PY intentó abrazar la lava.
+[02:07:26] [Async Chat Thread - #43/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: xd
+[02:07:39] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[02:07:40] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /sethomex
+[02:07:42] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 no tengo espacio mrd
+[02:07:44] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /sethomex casa
+[02:07:47] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY dale me puedo unir a ustedes?}
+[02:07:48] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:07:51] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpax GASTON_1870PY
+[02:07:56] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:08:06] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /home
+[02:08:08] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /homex
+[02:08:14] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /homex casa
+[02:08:19] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[02:08:21] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[02:08:22] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[02:08:26] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax GASTON_1870PY
+[02:08:34] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity ya w
+[02:08:56] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 q chcha quieres jacer
+[02:09:00] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY GASTOOOON
+[02:09:00] [Region Scheduler Thread #0/INFO]: GASTON_1870PY has made the advancement [Hot Stuff]
+[02:09:01] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 xd
+[02:09:06] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tell parnal0011 que
+[02:09:17] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY el whity me traiciono
+[02:09:26] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY me puedo unir a ustedes?
+[02:09:49] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 equipate mrd
+[02:10:18] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 te hablan al discord
+[02:10:22] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg GASTON_1870PY porfa
+[02:10:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:10:37] [Region Scheduler Thread #0/INFO]: MrOscu_ has made the advancement [Enchanter]
+[02:10:56] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity mandame tp
+[02:10:58] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -4, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:11:10] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -4, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:11:12] [Region Scheduler Thread #0/INFO]: parnal0011 has made the advancement [Ice Bucket Challenge]
+[02:11:24] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax GASTON_1870PY
+[02:12:02] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity me unire al otro equipo
+[02:12:10] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity pero
+[02:12:19] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity los traicionare
+[02:12:53] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 q w
+[02:13:10] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [We Need to Go Deeper]
+[02:13:19] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity me haces tp
+[02:13:20] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -5, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:13:22] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -5, -1 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:13:29] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -5, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:13:36] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax GASTON_1870PY
+[02:13:40] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:13:45] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 mrd escuche algo creo q es el otro team xd
+[02:14:16] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity veni hacete tp
+[02:14:22] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax p
+[02:14:26] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax parnal0011
+[02:14:36] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por MrOscu_
+[02:14:40] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:14:43] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxaccept
+[02:15:25] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -4, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:15:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
