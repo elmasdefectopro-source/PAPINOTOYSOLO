@@ -1,0 +1,15 @@
+teams:
+  Kratos:
+    color: GOLD
+    leader: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
+    members:
+      '0':
+        uuid: 26be8331-a246-3fe8-8796-22239ccb4539
+        role: MEMBER
+        kills: 0
+        deaths: 0
+      '1':
+        uuid: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
+        role: LEADER
+        kills: 0
+        deaths: 0
