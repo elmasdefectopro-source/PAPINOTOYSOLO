@@ -1187,3 +1187,90 @@ java.lang.NullPointerException: Cannot read the array length because "arr$" is n
 [02:55:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
 [02:55:54] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por GASTON_1870PY
 [02:56:00] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:57:37] [Region Scheduler Thread #0/INFO]: parnal0011 fue eliminado por GASTON_1870PY
+[02:57:41] [Region Scheduler Thread #0/INFO]: MrOscu_ lost connection: Disconnected
+[02:57:41] [Region Scheduler Thread #0/INFO]: MrOscu_ left the game
+[02:58:09] [Region Scheduler Thread #0/INFO]: parnal0011 lost connection: Disconnected
+[02:58:09] [Region Scheduler Thread #0/INFO]: parnal0011 left the game
+[02:58:10] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 16, -14 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:58:29] [Region Scheduler Thread #0/INFO]: GASTON_1870PY lost connection: Disconnected
+[02:58:29] [Region Scheduler Thread #0/INFO]: GASTON_1870PY left the game
+[02:58:36] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] se
+[02:58:39] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] fueron todos?
+[02:59:24] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 16, -14 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:59:31] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 16, -14 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:00:02] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 16, -14 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:00:17] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at 16, -14 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[03:00:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[03:02:07] [User Authenticator #12/INFO]: UUID of player GASTON_1870PY is 26be8331-a246-3fe8-8796-22239ccb4539
+[03:02:08] [Region Scheduler Thread #0/INFO]: GASTON_1870PY joined the game
+[03:02:08] [Region Scheduler Thread #0/INFO]: GASTON_1870PY[/127.92.181.21:58717] logged in with entity id 78308 at ([world]999.5085213240877, 63.0, -124.28391168479713)
+[03:02:25] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /login Uruguay1870
+[03:05:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[03:06:39] [Region Scheduler Thread #0/INFO]: GASTON_1870PY lost connection: Disconnected
+[03:06:39] [Region Scheduler Thread #0/INFO]: GASTON_1870PY left the game
