@@ -992,3 +992,88 @@ java.lang.IllegalStateException: World mismatch: expected world but got world_ne
 	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
 [02:15:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:16:04] [Async Chat Thread - #47/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: tienes algo e
+[02:16:13] [Async Chat Thread - #47/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: pvpear legal no sabes?
+[02:16:14] [Async Chat Thread - #47/INFO]: [Not Secure] [M][LEGENDS] MrOscu_: vos tmb che
+[02:16:18] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world_nether} at -5, -1 generated an exception
+java.lang.IllegalStateException: World mismatch: expected world but got world_nether
+	at net.minecraft.world.level.Level.getCurrentWorldData(Level.java:824) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at net.minecraft.world.level.Level.getBlockState(Level.java:1376) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at org.bukkit.craftbukkit.block.CraftBlock.getType(CraftBlock.java:245) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:83) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:16:20] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[02:16:25] [Async Chat Thread - #47/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: no tengo nd si quieres ss
+[02:16:30] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[02:16:30] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity hacete tp
+[02:16:35] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax parnal0011
+[02:16:41] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxaccept
+[02:17:10] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 se hizo tp
+[02:17:15] [Async Chat Thread - #47/INFO]: [Not Secure] [SinEquipo] parnal0011: si p
+[02:17:37] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[02:17:43] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpaxaccept
+[02:17:51] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity los ci w
+[02:17:54] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 tala arboles para manzanas de oeo
+[02:18:20] [Async Chat Thread - #47/INFO]: [Not Secure] [SinEquipo] parnal0011: whity dame algo w}
+[02:18:24] [Region Scheduler Thread #0/INFO]: MrOscu_ lost connection: Disconnected
+[02:18:24] [Region Scheduler Thread #0/INFO]: MrOscu_ left the game
+[02:18:26] [User Authenticator #10/INFO]: UUID of player MrOscu_ is 70f7fc37-46d8-3660-969f-dd8ec563f202
+[02:18:26] [Region Scheduler Thread #0/INFO]: com.mojang.authlib.GameProfile@41809a5b[id=70f7fc37-46d8-3660-969f-dd8ec563f202,name=MrOscu_,properties={}] lost connection: Disconnected
+[02:18:28] [User Authenticator #10/INFO]: UUID of player MrOscu_ is 70f7fc37-46d8-3660-969f-dd8ec563f202
+[02:18:28] [Region Scheduler Thread #0/INFO]: com.mojang.authlib.GameProfile@37e1ca1c[id=70f7fc37-46d8-3660-969f-dd8ec563f202,name=MrOscu_,properties={}] lost connection: Disconnected
+[02:18:30] [User Authenticator #10/INFO]: UUID of player MrOscu_ is 70f7fc37-46d8-3660-969f-dd8ec563f202
+[02:18:31] [Region Scheduler Thread #0/INFO]: MrOscu_ joined the game
+[02:18:31] [Region Scheduler Thread #0/INFO]: MrOscu_[/127.174.227.186:38599] logged in with entity id 58283 at ([world]92.76947311695172, 72.0, -1334.0827843899178)
+[02:18:36] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 y cmo chcha estabas pvpeando xd
+[02:18:37] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /login 10105040
+[02:18:42] [Async Chat Thread - #48/INFO]: [Not Secure] [SinEquipo] parnal0011: con mano
+[02:18:57] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 te crees coldifield para pelar con mano o k mrd
+[02:19:05] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity veni
+[02:19:21] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Those Were the Days]
+[02:19:31] [Async Chat Thread - #48/INFO]: [Not Secure] [SinEquipo] parnal0011: WHITY
+[02:20:06] [Async Chat Thread - #48/INFO]: [Not Secure] [SinEquipo] parnal0011: veni
+[02:20:18] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 manzanas de oro mrd
+[02:20:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:20:54] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:21:11] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax parnal0011
+[02:21:17] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxdeny
+[02:21:26] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax parnal0011
+[02:21:29] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxaccept
+[02:21:38] [Async Chat Thread - #49/INFO]: [Not Secure] [SinEquipo] parnal0011: dame algo puto
+[02:22:04] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 hay k poner un cofre sercreto o algo xd
+[02:22:18] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] a
+[02:22:23] [Region Scheduler Thread #0/INFO]: parnal0011 ardió como antorcha humana.
+[02:22:27] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /volver
+[02:22:39] [Region Scheduler Thread #0/INFO]: Unknown or incomplete command, see below for error
+online<--[HERE]
+[02:22:43] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] cuantas personas hay on?
+[02:22:47] [Async Chat Thread - #50/INFO]: [Not Secure] [SinEquipo] parnal0011: nose
+[02:22:48] [Async Chat Thread - #50/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: 0
+[02:22:54] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] fuera de jodas mditos
+[02:22:56] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] JAJA
+[02:23:05] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 usa xray para ver si tienen cofres secretos w xd
+[02:23:09] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] ya son full netherites?
+[02:23:16] [Async Chat Thread - #49/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: shi
+[02:23:43] [Region Scheduler Thread #0/WARN]: MrOscu_ moved wrongly!
+[02:23:45] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity nos estanb viendo
+[02:23:58] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 ns xd
+[02:24:25] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[02:24:29] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpaxaccept
+[02:24:43] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [War Pigs]
+[02:24:58] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 man hay q chetarnos
+[02:25:20] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpax GASTON_1870PY
+[02:25:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:25:31] [Region Scheduler Thread #0/INFO]: zrazer_yt lost connection: Disconnected
+[02:25:31] [Region Scheduler Thread #0/INFO]: zrazer_yt left the game
+[02:25:36] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 y si matamos a los otros?
+[02:25:48] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity yaya
+[02:25:48] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 zrazer_yt ese team w
+[02:26:06] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 estan en nether asik podemos encontrarlos
+[02:26:14] [Async Chat Thread - #50/INFO]: [Not Secure] [SinEquipo] parnal0011: sew fue
