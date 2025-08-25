@@ -1,6 +1,6 @@
 teams:
   Kratos:
-    color: GOLD
+    color: AQUA
     leader: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
     members:
       '0':
@@ -15,6 +15,11 @@ teams:
       '0':
         uuid: 26be8331-a246-3fe8-8796-22239ccb4539
         role: LEADER
+        kills: 0
+        deaths: 0
+      '1':
+        uuid: 70f7fc37-46d8-3660-969f-dd8ec563f202
+        role: MEMBER
         kills: 0
         deaths: 0
   MOSTACEROS:
