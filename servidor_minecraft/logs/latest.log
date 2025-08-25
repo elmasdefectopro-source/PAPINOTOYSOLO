@@ -1077,3 +1077,48 @@ online<--[HERE]
 [02:25:48] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 zrazer_yt ese team w
 [02:26:06] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 estan en nether asik podemos encontrarlos
 [02:26:14] [Async Chat Thread - #50/INFO]: [Not Secure] [SinEquipo] parnal0011: sew fue
+[02:26:16] [Async Chat Thread - #50/INFO]: [Not Secure] [SinEquipo] parnal0011: XDw
+[02:26:20] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 xddd
+[02:26:34] [Async Chat Thread - #49/INFO]: [Not Secure] [SinEquipo] parnal0011: invitame a tu team
+[02:26:41] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team invite parnal0011
+[02:26:46] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team invite parnal0011
+[02:26:46] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team invite parnal0011
+[02:26:46] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team invite parnal0011
+[02:26:53] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /team join MOSTACEROS
+[02:27:03] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[02:27:08] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpaxaccept
+[02:27:57] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpax GASTON_1870PY
+[02:28:01] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:28:09] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: nah ratas
+[02:28:15] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: re cagones xd
+[02:28:46] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpax zWhity
+[02:28:53] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpaxaccept
+[02:28:55] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: W
+[02:29:00] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: vi su base
+[02:29:01] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat q
+[02:29:48] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: los perdi w
+[02:29:52] [Async Chat Thread - #51/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: no
+[02:30:06] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat usa el comando teamchat mrd
+[02:30:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:31:03] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /teamchat sigamos w
+[02:31:32] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat crjo tienes la caña de azucar?
+[02:31:40] [Async Chat Thread - #53/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: si
+[02:32:23] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at -5, -96 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02:33:20] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /plugins
+[02:35:08] [Async Chat Thread - #55/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XDD
+[02:35:14] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpax GASTON_1870PY
+[02:35:16] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat pedernal xd
+[02:35:19] [Async Chat Thread - #55/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: le salio una cabexa estra
+[02:35:30] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[02:35:36] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpaxaccept
+[02:36:13] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity estan aqui w
