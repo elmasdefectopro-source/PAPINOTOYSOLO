@@ -30,6 +30,11 @@ teams:
         role: MEMBER
         kills: 0
         deaths: 0
+      '1':
+        uuid: 1f9e6913-15a9-3720-8575-1c868fb6e04c
+        role: MEMBER
+        kills: 0
+        deaths: 0
   mz:
     color: WHITE
     leader: 9804b45a-f505-3d58-a7d8-0892636fcb24

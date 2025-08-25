@@ -612,3 +612,142 @@ gm 1 IlluzziX<--[HERE]
 [01:44:13] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /tpax parnal0011
 [01:44:22] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /tpaxaccept
 [01:45:28] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:45:42] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por parnal0011
+[01:45:49] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[01:45:53] [Region Scheduler Thread #0/INFO]: GASTON_1870PY fue eliminado por zWhity
+[01:46:13] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[01:46:17] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 todo planeao
+[01:46:17] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[01:46:21] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 xdd
+[01:46:32] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity team?
+[01:46:38] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 manda
+[01:46:48] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team join Mostaceros
+[01:46:54] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /team invite zWhity
+[01:46:56] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team join Mostaceros
+[01:47:01] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /team join MOSTACEROS
+[01:47:08] [Region Scheduler Thread #0/INFO]: zrazer_yt has made the advancement [Hot Stuff]
+[01:47:15] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 1, -3 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:47:17] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /sethomex trial chamber
+[01:47:25] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /sethomex trialchamber
+[01:47:29] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 1, -3 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:47:33] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /tpax zrazer_yt
+[01:47:37] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 1, -3 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:47:42] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /tpaxaccept
+[01:47:54] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /homex trialchamber
+[01:48:11] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 q encantamiento tiene la espada¿
+[01:48:17] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 1, -3 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:48:23] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity golpeo 1
+[01:48:26] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 1, -3 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:48:32] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /msg zWhity w llamada?
+[01:48:38] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat sa wbd xd
+[01:49:03] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat no puedo xd
+[01:49:07] [Async Chat Thread - #33/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: Xd
+[01:49:08] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /tpax zrazer_yt
+[01:49:14] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /tpaxaccept
+[01:49:28] [Region Scheduler Thread #0/INFO]: miguelgamer1721 has made the advancement [Cover Me with Diamonds]
+[01:49:32] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat pera me quito el xray q da lag
+[01:49:37] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /homex trialchamber
+[01:50:14] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[01:50:18] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[01:50:20] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /msg parnal0011 no viste a su team de parnal?? ese MsOscu xd
+[01:50:29] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
+[01:50:31] [Async Chat Thread - #35/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: ese 2w
+[01:50:52] [Region Scheduler Thread #0/INFO]: MrOscu_ has made the advancement [Not Today, Thank You]
+[01:50:55] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat el no te mato? xd
+[01:51:07] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /teamchat nel
+[01:51:29] [Region Scheduler Thread #0/INFO]: zWhity issued server command: /teamchat en el chat aparecio xd
+[01:51:33] [Async Chat Thread - #36/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: a
+[01:51:51] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /tpax MrOscu_
+[01:51:52] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Suit Up]
+[01:51:57] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 4, 17 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:51:58] [Region Scheduler Thread #0/INFO]: MrOscu_ issued server command: /tpaxaccept
+[01:52:09] [Region Scheduler Thread #0/INFO]: miguelgamer1721 has made the advancement [Sweet Dreams]
+[01:52:26] [Region Scheduler Thread #0/WARN]: [DeathReturnPlugin] Location task for DeathReturnPlugin v1.1 in world CraftWorld{name=world} at 5, 17 generated an exception
+java.lang.NullPointerException: Cannot read the array length because "arr$" is null
+	at DeathReturnPlugin.jar/com.ericson.deathreturn.DeathReturnPlugin.lambda$onPlayerDeath$1(DeathReturnPlugin.java:81) ~[DeathReturnPlugin.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$LocationScheduledTask.run(FoliaRegionScheduler.java:331) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler$Scheduler.tick(FoliaRegionScheduler.java:272) ~[folia-1.21.8.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaRegionScheduler.tick(FoliaRegionScheduler.java:142) ~[folia-1.21.8.jar:?]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1647) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegions$ConcreteRegionTickHandle.tickRegion(TickRegions.java:407) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at io.papermc.paper.threadedregions.TickRegionScheduler$RegionScheduleHandle.runTick(TickRegionScheduler.java:418) ~[folia-1.21.8.jar:1.21.8-3-890349d]
+	at ca.spottedleaf.concurrentutil.scheduler.SchedulerThreadPool$TickThreadRunner.run(SchedulerThreadPool.java:546) ~[concurrentutil-0.0.3.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[01:52:38] [Region Scheduler Thread #0/INFO]: zWhity has made the advancement [Take Aim]
+[01:53:08] [Async Chat Thread - #38/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: ft
+[01:53:18] [Region Scheduler Thread #0/INFO]: parnal0011 issued server command: /teamchat foto w
+[01:53:27] [Region Scheduler Thread #0/INFO]: miguelgamer1721 issued server command: /tpax zrazer_yt
+[01:53:37] [Region Scheduler Thread #0/INFO]: zrazer_yt issued server command: /tpaxaccept
+[01:54:11] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] estan ahi?
+[01:54:14] [Async Chat Thread - #39/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: no
+[01:54:14] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: no
+[01:54:16] [Region Scheduler Thread #0/INFO]: GASTON_1870PY murió de forma misteriosa.
+[01:54:20] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] :v
+[01:54:21] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: XDD
+[01:54:23] [Region Scheduler Thread #0/INFO]: GASTON_1870PY issued server command: /volver
+[01:54:24] [Region Scheduler Thread #0/INFO]: [Not Secure] [Server] JAJAJAJAJAA
+[01:54:34] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] parnal0011: gaston nos vas a ganar?
+[01:54:57] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: c gaston con su creativo no puede
+[01:55:15] [Async Chat Thread - #40/INFO]: [Not Secure] [L][LEGENDS] GASTON_1870PY: si
+[01:55:18] [Async Chat Thread - #40/INFO]: [Not Secure] [M][MOSTACEROS] zWhity: xd
+[01:55:29] [Region Scheduler Thread #0/INFO]: [BetterTeamsFolia] [BetterTeams] Guardado automático de equipos completado.
