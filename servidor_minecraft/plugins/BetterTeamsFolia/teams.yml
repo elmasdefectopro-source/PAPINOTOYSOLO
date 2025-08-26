@@ -1,52 +1,10 @@
 teams:
-  MOSTACEROS:
-    color: GOLD
-    leader: c5f7bba7-ef5c-42f4-8a38-eb888e017eb0
-    members:
-      '0':
-        uuid: c5f7bba7-ef5c-42f4-8a38-eb888e017eb0
-        role: LEADER
-        kills: 0
-        deaths: 0
-      '1':
-        uuid: 7c1fc0c8-70e3-379f-9149-6da99e1e7cc8
-        role: MEMBER
-        kills: 0
-        deaths: 0
   Kratos:
-    color: AQUA
+    color: GOLD
     leader: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
     members:
       '0':
         uuid: 2e5b4d3e-6c79-31a6-81b9-59ae0e79045c
         role: LEADER
-        kills: 0
-        deaths: 0
-  mz:
-    color: WHITE
-    leader: 9804b45a-f505-3d58-a7d8-0892636fcb24
-    members:
-      '0':
-        uuid: 9804b45a-f505-3d58-a7d8-0892636fcb24
-        role: LEADER
-        kills: 0
-        deaths: 0
-      '1':
-        uuid: 63a5363c-2761-3952-b2d7-b27502eddcfc
-        role: MEMBER
-        kills: 0
-        deaths: 0
-  LEGENDS:
-    color: RED
-    leader: 26be8331-a246-3fe8-8796-22239ccb4539
-    members:
-      '0':
-        uuid: 26be8331-a246-3fe8-8796-22239ccb4539
-        role: LEADER
-        kills: 0
-        deaths: 0
-      '1':
-        uuid: 70f7fc37-46d8-3660-969f-dd8ec563f202
-        role: MEMBER
         kills: 0
         deaths: 0

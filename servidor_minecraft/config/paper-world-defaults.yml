@@ -63,7 +63,7 @@ chunks:
   fixed-chunk-inhabited-time: -1
   flush-regions-on-save: false
   max-auto-save-chunks-per-tick: 24
-  prevent-moving-into-unloaded-chunks: true
+  prevent-moving-into-unloaded-chunks: false
 collisions:
   allow-player-cramming-damage: false
   allow-vehicle-collisions: true
@@ -286,7 +286,6 @@ max-growth-height:
   cactus: 3
   reeds: 3
 misc:
-  allow-remote-ender-dragon-respawning: false
   alternate-current-update-order: HORIZONTAL_FIRST_OUTWARD
   disable-end-credits: false
   disable-relative-projectile-velocity: false

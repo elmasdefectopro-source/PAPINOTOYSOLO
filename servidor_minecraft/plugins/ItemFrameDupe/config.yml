@@ -1,6 +1,24 @@
-# Probabilidad de duplicación (0.0 - 1.0)
+# === ItemFrameDupe Config ===
+
+# Probabilidad de duplicar un ItemFrame al rotarlo (0.0 = 0%, 1.0 = 100%)
 duplicate-chance: 0.1
 
-# Lista de mundos donde se permite duplicar (opcional)
+# Lista de mundos donde se permite la duplicación de ItemFrames
 allowed-worlds:
   - world
+  - world_nether
+  - world_the_end
+
+# Opciones visuales
+effects:
+  particles: true         # Mostrar partículas al duplicar
+  particle-type: HAPPY_VILLAGER
+  particle-count: 10
+  particle-offset: 0.3
+  particle-speed: 0.02
+
+# Opciones de ítem
+drop-item: true           # Soltar ítem duplicado en el suelo
+
+# Opciones de logging
+debug: true               # Mostrar mensajes en consola al duplicar

@@ -1,0 +1,39 @@
+# === AntiChaos (Paper) - Config ===
+
+# --- TNT Stagger ---
+tnt:
+  enabled: true
+  # Cantidad máxima de TNT "activas" en una misma ventana de tiempo antes de escalonar fusibles
+  window-ticks: 40         # 2 segundos
+  threshold: 64            # si hay >= 64 TNT spawneadas en 2s, escalonar
+  spread-ticks: 200        # esparce las explosiones dentro de 10s
+  max-fuse-boost: 1200     # no permitas que un TNT pase de +60s extra
+
+# --- Loot Bags ---
+loot:
+  enabled: true
+  chunk-threshold: 200     # si hay >=200 items sueltos en el mismo chunk, comprimir
+  radius: 8                # radio de succión (bloques) para formar la bolsa
+  max-items-in-bag: 540    # límite de items (slots virtuales) por bolsa
+  name: "§6§lLoot Bag §7(Click derecho)"
+  custom-model-data: 10001 # opcional si usas resource pack
+
+# --- Mob Clusters ---
+cluster:
+  enabled: true
+  radius: 6.0              # radio para agrupar
+  min-same-type: 12        # si hay >=12 del mismo tipo, colapsar
+  max-per-cluster: 80      # límite lógico por líder
+  whitelist:
+    - ZOMBIE
+    - SKELETON
+    - SPIDER
+    - CREEPER
+    - ENDERMAN
+
+# --- Mensajes ---
+messages:
+  loot-created: "§eSe creó una Loot Bag para reducir el lag (§f%count% items§e)."
+  loot-opened: "§aAbriste una Loot Bag: §f%count% items liberados."
+  cluster-formed: "§7[Cluster] §f%type% x%count% → 1 líder."
+  cluster-split: "§7[Cluster] §fSe dividió un cluster (por daño alto)."

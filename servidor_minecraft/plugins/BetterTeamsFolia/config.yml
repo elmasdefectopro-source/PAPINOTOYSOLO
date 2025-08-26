@@ -5,8 +5,20 @@
 # Prefijo que aparecerá en los mensajes del plugin
 plugin-prefix: "&6[BetterTeams]&r "
 
-# Mensaje que aparece cuando un jugador crea un equipo
-team-created: "&aHas creado el equipo &e%team%"
+# Mensajes personalizados del plugin
+messages:
+  team-created: "&aHas creado el equipo &e%team%"
+  team-joined: "&aTe has unido al equipo &e%team%"
+  team-left: "&cHas salido del equipo &e%team%"
+  team-full: "&cEl equipo &e%team% &cya ha alcanzado el límite de miembros."
+  team-no-permission: "&cNo tienes permisos para realizar esta acción."
+  team-no-team: "&cNo estás en ningún equipo."
+  team-color-changed: "&aColor del equipo cambiado a %color%!"
+  team-invite-sent: "&aInvitaste a &e%player% &aal equipo."
+  team-invite-received: "&eHas recibido una invitación al equipo &a%team% &ede &a%player%"
+  team-home-set: "&aHome del equipo establecido en tu ubicación actual."
+  team-home-teleported: "&aTe has teletransportado al home del equipo."
+  unknown-command: "&cSubcomando desconocido. Usa /team help"
 
 # Límite de miembros en un equipo
 max-team-size: 10
@@ -14,11 +26,12 @@ max-team-size: 10
 # ¿Permitir PvP entre miembros de un mismo equipo?
 friendly-fire: false
 
-# ¿Prefijo en el chat con el nombre del equipo?
-chat-prefix: true
-chat-format: "&7[&b%team%&7] &f%player%: %message%"
+# Chat de equipos
+chat:
+  prefix-enabled: true
+  format: "&7[&b%team%&7] &f%player%: %message%"
 
-# ¿Activar log de todas las acciones en consola?
+# Log de acciones en consola
 debug: false
 
 # Nombre del archivo donde se guardan los equipos
