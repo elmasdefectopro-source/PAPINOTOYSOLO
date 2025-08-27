@@ -1,0 +1,53 @@
+# ===============================
+# FancyAuth - Configuración general
+# ===============================
+
+# Mensajes de bienvenida y login
+messages:
+  join:
+    registered: '&6Bienvenido, por favor inicia sesión.'
+    unregistered: '&a¡Crea tu cuenta para empezar!'
+  login:
+    success: '&a¡Has iniciado sesión correctamente!'
+    fail: '&cUsuario o contraseña incorrecta.'
+  register:
+    success: '&aRegistro exitoso, ahora inicia sesión.'
+    fail: '&cError al registrar usuario.'
+  kick:
+    timeout: '&c⏰ Tiempo agotado para iniciar sesión.'
+
+# Opciones de seguridad
+security:
+  bcrypt-rounds: 12 # Rounds de BCrypt para hashing
+  session-timeout: 3600 # Tiempo de sesión en segundos
+  recovery-token-ttl: 600 # Token de recuperación expiración en segundos
+  max-login-attempts: 5 # Intentos de login antes de bloqueo
+  login-cooldown: 60 # Tiempo de espera después de fallar login (segundos)
+
+# Opciones de juego mientras el jugador no se autentica
+restrictions:
+  block-movement: true
+  block-chat: true
+  block-command: true
+  allowed-commands:
+  - /login
+  - /register
+  block-inventory: true
+  block-damage: true
+
+# Opciones de GUI
+gui:
+  login-title: Inicia sesión
+  register-title: Crea tu cuenta
+  login-subtitle: Usa la interfaz para entrar
+  register-subtitle: Regístrate para comenzar
+
+# Opciones de logging
+logging:
+  debug: false
+  log-database-errors: true
+
+# Intervalos de limpieza
+cleanup:
+  expired-sessions: 300 # limpiar sesiones expiradas cada X segundos
+  expired-recovery-tokens: 600 # limpiar tokens expirados cada X segundos

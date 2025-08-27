@@ -21,4 +21,4 @@ effects:
 drop-item: true           # Soltar ítem duplicado en el suelo
 
 # Opciones de logging
-debug: true               # Mostrar mensajes en consola al duplicar
+debug: false               # Mostrar mensajes en consola al duplicar

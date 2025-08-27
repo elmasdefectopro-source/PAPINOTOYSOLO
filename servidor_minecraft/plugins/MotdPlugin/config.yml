@@ -1,0 +1,3 @@
+permission: motdplugin.set
+prefix: '&6[MotdPlugin]&r '
+motd: '&bBienvenido a &6Mi Servidor &7- &a¡Diviértete!'

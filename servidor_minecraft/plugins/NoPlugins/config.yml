@@ -1,0 +1,15 @@
+# Lista de comandos bloqueados
+blocked-commands:
+  - op
+  - stop
+  - reload
+  - plugins
+  - pl
+  - version
+  - about
+  - help
+  - me
+  - say
+  - give
+  - summon
+  - kill

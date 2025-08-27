@@ -1,0 +1,36 @@
+# Duración en minutos de protección/existencia del cofre
+chest:
+  duration-minutes: 10
+
+# Colocación
+placement:
+  search-radius: 3   # bloques alrededor del punto de muerte
+  chest-count: 2     # 1 o 2
+
+# Protección
+protection:
+  enabled: true
+  owner-can-break: true
+
+# Funciones extra
+features:
+  compass-to-death: true    # la brújula apunta al último deathpoint
+  holograms: true           # hologramas con ArmorStands invisibles
+  tp-to-chest: true
+  tp-to-death: true
+  vacuum-pickup: true       # al abrir, manda los ítems directo al inventario
+  clear-exp-orbs: true
+
+# Items
+items:
+  split-evenly: true
+
+# Mensajes
+messages:
+  death-created: "§c☠ ¡Has muerto! Tus objetos están en cofres protegidos durante {minutes} minutos."
+  no-space: "§cNo hay espacio suficiente para colocar cofres cerca."
+  expired: "§cTus cofres de muerte han desaparecido."
+  removed: "§eTu cofre de muerte fue eliminado."
+  compass-set: "§bTu brújula apunta a tu último lugar de muerte."
+  death-tip: "§7Usa §e/deathreturn volver §7para regresar."
+  reloaded: "§aConfiguración recargada."

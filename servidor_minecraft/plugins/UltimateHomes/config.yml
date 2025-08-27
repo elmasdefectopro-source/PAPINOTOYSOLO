@@ -1,0 +1,20 @@
+# ==============================
+# Configuración principal del plugin UltimateHomes
+# ==============================
+
+# Homes
+max-homes: 5                 # Número máximo de homes por jugador (0 = infinito)
+home-gui-title: "&6Tus Homes" # Título de la GUI de homes
+delhome-gui-title: "&cEliminar Home" # Título de la GUI de eliminar home
+home-icon: "COMPASS"         # Icono por defecto para cada home en la GUI
+
+# TPA
+tpa-enabled: true            # Habilitar sistema de TPA
+tpa-expiration: 60           # Tiempo de expiración de solicitudes TPA en segundos
+tpa-message-send: "&aSolicitud enviada a &b{player}&a!"
+tpa-message-received: "&b{player} &ate ha enviado una solicitud de teletransporte. [Aceptar] [Denegar]"
+
+# Mensajes generales
+prefix: "&6[UltimateHomes] &f"
+no-permission: "&cNo tienes permisos para ejecutar este comando."
+only-player: "&cSolo los jugadores pueden usar este comando."

@@ -1,0 +1,13 @@
+chests:
+  '0':
+    owner: a79b635e-0b34-3fdd-8792-ad24a75a0a2e
+    id: aaa23f6f-3f4f-4bcc-b77e-87981845d603
+    createdAt: 1756321113731
+    expireAt: 1756321713731
+    protected: true
+    vacuumPickup: true
+    whitelist:
+    - a79b635e-0b34-3fdd-8792-ad24a75a0a2e
+    locs:
+    - world,-8,62,47
+    - world,-8,62,48

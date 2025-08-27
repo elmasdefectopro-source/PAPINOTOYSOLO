@@ -1,0 +1,41 @@
+# =========================
+# CombatLog Plugin Config
+# =========================
+
+# Mensajes
+messages:
+  prefix: "&7[&cCombatLog&7] "
+  enter_combat: "&c¡Has entrado en combate!"
+  leave_combat: "&aHas salido de combate."
+  blocked_command: "&cNo puedes usar ese comando en combate."
+  quit_punish_broadcast: "&c%player% se desconectó en combate y fue castigado."
+  join_death: "&cHas muerto por desconectarte en combate."
+  bossbar: "&c⚔ En combate - %time%s"
+
+# Comandos bloqueados durante combate
+blocked-commands:
+  - spawn
+  - home
+  - tp
+  - warp
+
+# Configuración de combate
+combat:
+  time: 15 # segundos que dura el combate
+
+# Castigos por desconexión en combate
+punishments:
+  kill_on_quit: true
+  drop_inventory_on_quit: true
+
+# Restricciones durante combate
+restrictions:
+  block_flight: true
+  block_enderpearls: true
+  block_enderchest: true
+  block_containers: true
+
+# Indicadores visuales
+indicators:
+  bossbar: true
+  actionbar: true

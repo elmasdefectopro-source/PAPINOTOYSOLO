@@ -13,4 +13,4 @@ max-chunks-per-tick: 5
 chunk-unload-delay: 300
 
 # Modo debug (true = se imprimen mensajes de precarga en consola)
-debug: true
+debug: false
